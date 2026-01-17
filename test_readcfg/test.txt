@@ -1,0 +1,14 @@
+hhm = 123
+//
+#
+hmh ==456 ; hhm
+
+[hhm]
+larry
+lar=ry
+
+[moran]
+rry=la
+
+[HHM]
+HHM=908 //

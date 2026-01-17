@@ -1,0 +1,8 @@
+exe_style	multi
+cmd_style	redirection
+name_list	D:\25261-term\25261-stulist-part.txt
+stu_exe_name	3-b3-2.cpp.vs.x86.debug.exe
+start_time	2026-01-17-11-11-58
+
+序号	课号	学号	姓名	正确运行	定时器创建失败	管道方式打开失败	启动定时器失败	超时	超过输出上限	死循环	TC通过总数	3-b3-01.txt	3-b3-02.txt	3-b3-03.txt	3-b3-04.txt	3-b3-05.txt	3-b3-06.txt	3-b3-07.txt	3-b3-08.txt	3-b3-09.txt	3-b3-10.txt	3-b3-11.txt	3-b3-12.txt	3-b3-13.txt	3-b3-14.txt	3-b3-15.txt	3-b3-16.txt	3-b3-17.txt	3-b3-18.txt	3-b3-19.txt	3-b3-20.txt	3-b3-21.txt	3-b3-22.txt	3-b3-23.txt	3-b3-24.txt	3-b3-25.txt	3-b3-26.txt	3-b3-27.txt	3-b3-28.txt	3-b3-29.txt	3-b3-30.txt	3-b3-31.txt	3-b3-32.txt
+1	=text("5000722002104", "#")	2988765	莫然	/	/	/	/	/	/	/	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
