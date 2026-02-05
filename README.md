@@ -1,4 +1,5 @@
-BigHW/\t                              # 项目根目录  
+```
+BigHW/                              # 项目根目录  
 ├── .vscode/                        # 存放配置文件  
 ├── include/                        # 头文件目录  
 ├── common/                         # 所有.cpp实现文件  
@@ -14,3 +15,4 @@ BigHW/\t                              # 项目根目录
 ├── test_menu/                      # 菜单选择界面测试  
 ├── hw_check_exe/                   # 学生作业检查工具集  
 └── txt_compare/                    # 文件比较工具集  
+```
